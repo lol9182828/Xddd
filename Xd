@@ -1,4 +1,4 @@
--- Epikk Dancezz Made by trickyymn and gob (es muy freaky)
+-- Epikk Dancezz Made by trickyymn and gob (es muy Jeanky)
 if not isfolder("Dances") then 
     makefolder("Dances")
     end
