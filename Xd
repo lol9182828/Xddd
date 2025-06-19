@@ -1,4 +1,4 @@
--- Krystal Dance V3, Made by Hemi (es muy janky)
+-- Epikk Dancezz Made by trickyymn and gob (es muy freaky)
 if not isfolder("Dances") then 
     makefolder("Dances")
     end
@@ -18,7 +18,7 @@ local playbacktrack = true
 local script = Instance.new("LocalScript")
 local OxideApi = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nitro-GT/Utils/refs/heads/main/OxideApi"))()
 local timeposcur = 0 
-OxideApi.Notification("Krystal Dance V3, Made by Hemi",10)
+OxideApi.Notification("Epikk Dancezz made by trickyymn and gob",10)
 local playanother = false
 local playing = false
 local dancing = false
